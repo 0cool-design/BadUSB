@@ -14,6 +14,7 @@
 - Payloads Generator [Duck Toolkit](https://ducktoolkit.com/)
 - WiFi Duck [WiFi Duck](https://wifiduck.com/)
 - Learn about BadUSBs [BadUSBs](https://learnbadusb.com/)
+- PS reverse shell [Reverse Shell](https://gist.github.com/egre55/c058744a4240af6515eb32b2d33fbed3)
 
 
 ## Videos:
