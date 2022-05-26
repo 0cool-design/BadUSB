@@ -1,5 +1,5 @@
 # BadUSB
-## collection of Arduino BadUSB (rubber ducky) payloads, trick and tips.
+## collection of Arduino BadUSB (rubber ducky) payloads, tricks and tips.
 
 
 <p align="center">
